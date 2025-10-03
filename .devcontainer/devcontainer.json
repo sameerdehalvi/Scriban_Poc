@@ -4,7 +4,7 @@
     "repositories": {
       "sameerdehalvi/Scriban_Poc": {
         "permissions": {
-          //add permissions here
+          "issues": "write"
         }
       }
     }
